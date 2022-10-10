@@ -2,11 +2,13 @@
 
 # Dashboard Design
 
-![image-20221010150647844](.\readme.assets\image-20221010150647844.png)
+点击主目录下载Uk map等xlxs文件可以点击日期，地区实时动态改变。
 
-![image-20221010150630313](.\readme.assets\image-20221010150630313.png)
+![image-20221010150630313](DashBroad1.jpg)
 
-![image-20221010150702731](.\readme.assets\image-20221010150702731.png)
+![](DashBroad2.jpg)
+
+![image-20221010150702731](Dashbroad3.png)
 
 主要关注的详情：
 
